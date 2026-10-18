@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Context from './Context'
-import Card from './card/Card'
+import Card from './Card/card.jsx'
 
 
 const App = () => {
